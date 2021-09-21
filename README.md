@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently exploring **Data Science and ML**
 
-- 🌱 I’m currently learning some **Python libraries**
+- 🌱 I’m currently learning some **Python libraries and DSA in Java**
 
-- 👯 I’m looking to collaborate on **Python**
+- 👯 I’m looking to collaborate on **Python And Java**
 
 - 🤝 I’m looking for help with **Algorithms**
 
