@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Jestin John 👋</h1>
 <h3 align="center">A passionate coder from India</h3><br>
 
-- 🔭 I’m currently exploring **Data Science and ML**
+- 🔭 I’m currently exploring **Coding platforms like Codechef and Codeforces**
 
-- 🌱 I’m currently learning some **Python libraries and DSA in Java**
+- 🌱 I’m currently learning some **DSA in Python, C & C++**
 
 - 👯 I’m looking to collaborate on **Python And Java**
 
